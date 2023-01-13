@@ -1,0 +1,15 @@
+C:\Users\Roman\Desktop\GB\лекции\С# знакомство\Лекция 1\Examples\example003_summOfTwo\bin\Debug\net6.0\example003_summOfTwo.exe
+C:\Users\Roman\Desktop\GB\лекции\С# знакомство\Лекция 1\Examples\example003_summOfTwo\bin\Debug\net6.0\example003_summOfTwo.deps.json
+C:\Users\Roman\Desktop\GB\лекции\С# знакомство\Лекция 1\Examples\example003_summOfTwo\bin\Debug\net6.0\example003_summOfTwo.runtimeconfig.json
+C:\Users\Roman\Desktop\GB\лекции\С# знакомство\Лекция 1\Examples\example003_summOfTwo\bin\Debug\net6.0\example003_summOfTwo.dll
+C:\Users\Roman\Desktop\GB\лекции\С# знакомство\Лекция 1\Examples\example003_summOfTwo\bin\Debug\net6.0\example003_summOfTwo.pdb
+C:\Users\Roman\Desktop\GB\лекции\С# знакомство\Лекция 1\Examples\example003_summOfTwo\obj\Debug\net6.0\example003_summOfTwo.csproj.AssemblyReference.cache
+C:\Users\Roman\Desktop\GB\лекции\С# знакомство\Лекция 1\Examples\example003_summOfTwo\obj\Debug\net6.0\example003_summOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\Desktop\GB\лекции\С# знакомство\Лекция 1\Examples\example003_summOfTwo\obj\Debug\net6.0\example003_summOfTwo.AssemblyInfoInputs.cache
+C:\Users\Roman\Desktop\GB\лекции\С# знакомство\Лекция 1\Examples\example003_summOfTwo\obj\Debug\net6.0\example003_summOfTwo.AssemblyInfo.cs
+C:\Users\Roman\Desktop\GB\лекции\С# знакомство\Лекция 1\Examples\example003_summOfTwo\obj\Debug\net6.0\example003_summOfTwo.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\GB\лекции\С# знакомство\Лекция 1\Examples\example003_summOfTwo\obj\Debug\net6.0\example003_summOfTwo.dll
+C:\Users\Roman\Desktop\GB\лекции\С# знакомство\Лекция 1\Examples\example003_summOfTwo\obj\Debug\net6.0\refint\example003_summOfTwo.dll
+C:\Users\Roman\Desktop\GB\лекции\С# знакомство\Лекция 1\Examples\example003_summOfTwo\obj\Debug\net6.0\example003_summOfTwo.pdb
+C:\Users\Roman\Desktop\GB\лекции\С# знакомство\Лекция 1\Examples\example003_summOfTwo\obj\Debug\net6.0\example003_summOfTwo.genruntimeconfig.cache
+C:\Users\Roman\Desktop\GB\лекции\С# знакомство\Лекция 1\Examples\example003_summOfTwo\obj\Debug\net6.0\ref\example003_summOfTwo.dll
